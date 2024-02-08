@@ -1,13 +1,13 @@
 ### Hi, I'm a deep learning researcher & engineer.
 ### Research Interest: Image Restoration, Super‑Resolution
 
-#### Education
+#### :book: Education
 
 M.S. in Computer Engineering @ MLVC Lab., Kyung Hee University, 2021.09-2023.08
 
 B.S. in Space Science and Astronomy, Kyung Hee University, 2015.03-2021.02
 
-#### Work Experiences
+#### :briefcase: Work Experiences
 
 Researcher, AI team, R&D center, D.notitia, 2023.12-present
 
