@@ -10,6 +10,7 @@ B.S. in Space Science and Astronomy, Kyung Hee University, 2015.03-2021.02
 #### Work Experiences
 
 Researcher, AI team, R&D center, D.notitia, 2023.12-present
+
 Internship, AI education team, Elice, 2020.09-2020.12
 
 
