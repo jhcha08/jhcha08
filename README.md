@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm AI researcher and AI engineer who interested in deep learning‑based low‑level computer nision (Image Restoration, Super‑Resolution)
 
 #### Education
 
