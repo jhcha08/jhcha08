@@ -1,12 +1,16 @@
-### Hi, I'm AI researcher and AI engineer.
-### Research Interest: Deep Learning‑based Low‑level Computer Vision (Image Restoration, Super‑Resolution)
+### Hi, I'm a deep learning researcher & engineer.
+### Research Interest: Image Restoration, Super‑Resolution
 
 #### Education
 
-M.S. in Computer Engineering @ MLVC Lab., Kyung Hee University, Republic of Korea
+M.S. in Computer Engineering @ MLVC Lab., Kyung Hee University, 2021.09-2023.08
 
-B.S. in Space Science and Astronomy, Kyung Hee University, Republic of Korea
+B.S. in Space Science and Astronomy, Kyung Hee University, 2015.03-2021.02
 
+#### Work Experiences
+
+Researcher, AI team, R&D center, D.notitia, 2023.12-present
+Internship, AI education team, Elice, 2020.09-2020.12
 
 
 <!--
