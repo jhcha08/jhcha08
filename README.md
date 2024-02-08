@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+#### Education
+
 M.S. in Computer Engineering @ MLVC Lab., Kyung Hee University, Republic of Korea
+
 B.S. in Space Science and Astronomy, Kyung Hee University, Republic of Korea
+
+
 
 <!--
 - 🔭 I’m currently working on ...
