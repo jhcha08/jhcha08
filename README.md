@@ -1,4 +1,5 @@
-### I'm AI researcher and AI engineer who interested in deep learning‑based low‑level computer nision (Image Restoration, Super‑Resolution)
+### Hi, I'm AI researcher and AI engineer.
+### Research Interest: Deep Learning‑based Low‑level Computer Vision (Image Restoration, Super‑Resolution)
 
 #### Education
 
