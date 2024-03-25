@@ -15,9 +15,9 @@ Internship, AI education team, **Elice**, _2020.09-2020.12_
 
 #### :newspaper: Publications
 
-"Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model", AAAI, 2024
+"Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model", _AAAI, 2024_
 
-"Generation of He I 1083nm Images from SDO AIA Images by Deep Learning", The Astrophysical Journal, 2021
+"Generation of He I 1083nm Images from SDO AIA Images by Deep Learning", _The Astrophysical Journal, 2021_
 
 <!--
 - 🔭 I’m currently working on ...
