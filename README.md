@@ -1,4 +1,4 @@
-### Hello! 😄 I'm a deep learning researcher & engineer interested in the image restoration.
+### Hello! 😄 I'm a deep-learning researcher & engineer interested in image restoration.
 
 #### :book: Education
 
