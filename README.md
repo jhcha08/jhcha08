@@ -1,5 +1,4 @@
-### Hi! I'm a deep learning researcher & engineer.
-### Research Interest: Image Restoration, Super‑Resolution
+### Hi! I'm a deep learning researcher & engineer interested in the image restoration.
 
 #### :book: Education
 
