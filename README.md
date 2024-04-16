@@ -2,7 +2,7 @@
 
 #### :book: Education
 
-M.S. in Computer Engineering @ MLVC Lab., **Kyung Hee University**, _2021.09-2023.08_  
+M.S. in Computer Engineering @ MLVC Lab., **Kyung Hee University**, _2021.09 ~ 2023.08_  
 B.S. in Space Science and Astronomy, **Kyung Hee University**, _2015.03 ~ 2021.02_  
 
 #### :briefcase: Work Experiences
