@@ -18,8 +18,8 @@ Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_
 
 #### 🔭 Projects
 
-"AI-Based Image Restoration Solution for the Scanning Electron Microscopes (SEM)" w/ **COXEM** (2023.12 ~ present)  
-"Study on Real-time Broadcast Image Super-Resolution Model for X220 NPU" w/ **Sapeon Korea Inc.** (2021.09 ~ 2023.08)
+"AI-Based Image Restoration Solution for the Scanning Electron Microscopes (SEM)" w/ **COXEM** _(2023.12 ~ present)_   
+"Study on Real-time Broadcast Image Super-Resolution Model for X220 NPU" w/ **Sapeon Korea Inc.** _(2021.09 ~ 2023.08)_
 
 <!--
 - 🔭 I’m currently working on ...
