@@ -7,7 +7,7 @@ B.S. in Space Science and Astronomy, **Kyung Hee University**, _2015.03 ~ 2021.0
 
 #### :briefcase: Work Experiences
 
-Researcher, AI team, R&D center, **D.notitia**, _2023.12 ~ present_  
+Deep Learning Engineer, AI team, R&D center, **D.notitia**, _2023.12 ~ present_  
 Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_  
 
 #### :newspaper: Publications
@@ -19,7 +19,8 @@ Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_
 
 #### 🔭 Projects
 
-"AI-Based Image Restoration Solution for the Scanning Electron Microscopes (SEM)" w/ **COXEM**, _2023.12 ~ present_   
+"3D Reconstruction of 2D Endoscopy Images Based on 3D Gaussian Splatting" w/ **Btree**, _2024.07 ~ present_   
+"AI-Based Image Restoration Solution for the Scanning Electron Microscopes (SEM)" w/ **COXEM**, _2023.12 ~ 2024.09_   
 "Study on Real-time Broadcast Image Super-Resolution Model for X220 NPU" w/ **Sapeon Korea Inc.**, _2021.09 ~ 2023.08_
 
 <!--
