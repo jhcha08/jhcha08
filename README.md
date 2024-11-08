@@ -7,7 +7,7 @@ B.S. in Space Science and Astronomy, **Kyung Hee University**, _2015.03 ~ 2021.0
 
 #### :briefcase: Work Experiences
 
-Deep Learning Engineer, AI team, R&D center, **D.notitia**, _2023.12 ~ present_  
+Deep Learning Engineer, AI team, **D.notitia**, _2023.12 ~ present_  
 Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_  
 
 #### :newspaper: Publications
