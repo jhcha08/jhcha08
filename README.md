@@ -14,8 +14,8 @@ Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_
 
 "SEMNet: Deep Synthetic Training for Unprecedented SEM Image Denoising and Super-Resolution", _EMC, 2024_  
 "Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model", _AAAI, 2024_  
-"Face-centered Broadcast Video Super-Resolution Based on Edge-oriented Convolution Block and Random Degradation", _KCC, 2022_
-"Generation of He I 1083nm Images from SDO AIA Images by Deep Learning", _The Astrophysical Journal, 2021_ 
+"Face-centered Broadcast Video Super-Resolution Based on Edge-oriented Convolution Block and Random Degradation", _KCC, 2022_  
+"Generation of He I 1083nm Images from SDO AIA Images by Deep Learning", _The Astrophysical Journal, 2021_  
 "Highlight Extraction of League of Legends Game Videos Using 3D CNN and Bi‑LSTM", _CEIC, 2020_ 
 
 #### 🔭 Projects
