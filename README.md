@@ -23,7 +23,7 @@ Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_
 
 "3D Reconstruction of 2D Endoscopy Images Based on 3D Gaussian Splatting" w/ **Btree**, _2024.07 ~ 2025.03_   
 "AI-Based Image Restoration Solution for the Scanning Electron Microscopes (SEM)" w/ **COXEM**, _2023.12 ~ 2024.09_   
-"A Real-time Broadcast Image Super-Resolution Model for X220 NPU" w/ **Sapeon Korea Inc.**, _2021.09 ~ 2023.08_
+"A Real-time Broadcast Image Super-Resolution Model for X220 NPU" w/ **SK Telecom**, _2021.09 ~ 2023.08_
 
 #### 🌱 Patents
 
