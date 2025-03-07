@@ -27,8 +27,8 @@ Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_
 
 #### 🌱 Patents
 
-"Endoscopic Image Processing System and Method", **10-2025-0026290**, _2025_  
-"Apparatus and Method for Machine Learning-Based Image Restoration", **10-2024-0169006**, _2024_  
+"Endoscopic Image Processing System and Method", **10-2025-0026290**  
+"Apparatus and Method for Machine Learning-Based Image Restoration", **10-2024-0169006**
 
 <!--
 - 🔭 I’m currently working on ...
