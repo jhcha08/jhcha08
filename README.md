@@ -12,7 +12,7 @@ Internship, AI education team, **Elice**, _2020.09 ~ 2020.12_
 
 #### :newspaper: Publications
 
-"Depth‑Regularized 3D Gaussian Splatting for Robust Endoscopic Reconstruction in Feature‑Scarce Environments", _Under Review, 2025_  
+"Depth‑Regularized 3D Gaussian Splatting for Robust Endoscopic Reconstruction in Feature‑Scarce Environments", _EMBC, 2025_  
 "SEMNet: Deep Synthetic Training for Unprecedented SEM Image Denoising and Super-Resolution", _EMC, 2024_  
 "Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model", _AAAI, 2024_  
 "Face-centered Broadcast Video Super-Resolution Based on Edge-oriented Convolution Block and Random Degradation", _KCC, 2022_  
